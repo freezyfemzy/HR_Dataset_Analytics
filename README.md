@@ -1,40 +1,21 @@
 # HR Dataset Analytics - Excel Dashboard
 
-Analyzed 1470 employees. Built interactive dashboard with Slicers, PivotTables, XLOOKUP & VLOOKUP.
-
-## Dashboard Preview
-![Dashboard](images/dashboard.png)
-
-## Metrics
-- JobRole Count: 1470
-- Dept Count: 1470  
-- Total working yrs: 16581# HR Dataset Analytics - Excel Dashboard
-
 ## 📊 Overview
-HR Analytics project analyzing 1,470 employees to understand workforce distribution by Job Role, Department, Age Category, Income and Working Years. Built fully in Microsoft Excel.
+HR Analytics project analyzing 1,470 employees. Built fully in Microsoft Excel with interactive dashboard.
 
-## 🖼️ Dashboard
-![HR Dashboard](images/dashboard.png)
+## 🖼️ Dashboard Preview
+![HR Dashboard](dashboard.png)
 
-## 📈 KPIs in Dashboard
+## 📈 KPIs
 - JobRole Count: 1470
 - Dept Count: 1470
 - Total Working Years: 16,581
 - Avg Income: 6,503
-- Age Count: 1470
 
-## 🛠️ Excel Skills Used
-- Pivot Tables & Pivot Charts
-- Slicers (Department, AgeCategory, IncomeCategory)
-- XLOOKUP / VLOOKUP
-- Data Cleaning & Categorization
-- Interactive Dashboard Design
+## 🛠️ Skills: PivotTables, PivotCharts, Slicers, XLOOKUP, VLOOKUP, Excel Dashboard
 
-## 💡 Key Insights
-- Research & Development and Sales dominate departments
-- Youth (511) are the largest age group vs Adults & Elders
-- Income distribution shows clear Low / Average / High segmentation
-
-## 📁 Files
+## 💡 Insights
+- 961 employees in major dept, 511 Youths, 326 in top job role
+- Income segmentation: Low / Average / High
 - HR_DATA_PROJECT.xlsx - Full workbook with dashboard
 - images/dashboard.png - Dashboard preview
